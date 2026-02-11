@@ -1,0 +1,4 @@
+project_id = "xjtwqjnfmaymoopzrowr"
+
+[functions.send-valentine-email]
+verify_jwt = false
